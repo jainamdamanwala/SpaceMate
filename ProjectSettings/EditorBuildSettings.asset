@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1ba8ea17c61db6548969ad94a47a6d56
+  - enabled: 1
+    path: Assets/Scenes/Level-1.unity
+    guid: 1b20e8aba24c1d74dbffd0521a60e276
+  - enabled: 1
+    path: Assets/Scenes/Level-2.unity
+    guid: c9b4bc7798941b94b895dd5c0cd55898
+  - enabled: 1
+    path: Assets/Scenes/Boss-1.unity
+    guid: a70fac2dde45a104e8fc20797582f6de
+  - enabled: 1
+    path: Assets/Scenes/Level-4.unity
+    guid: 202fbaf945f72404c95dd6ce68613c89
+  - enabled: 1
+    path: Assets/Scenes/Level-5.unity
+    guid: 7c20a2482a6e85c46aaa91ff04ef6239
+  - enabled: 1
+    path: Assets/Scenes/Boss-2.unity
+    guid: 1df6f1564fddde04ab486f69a764c267
+  - enabled: 1
+    path: Assets/Scenes/Level-7.unity
+    guid: a2e280ae1758ce44e9cf517f3938ef24
+  - enabled: 1
+    path: Assets/Scenes/Level-8.unity
+    guid: 2395f90af5cc3e049a5a1e87131b296a
+  - enabled: 1
+    path: Assets/Scenes/Boss-3.unity
+    guid: 43eee38e11827c149a6107f276f04a57
+  - enabled: 1
+    path: Assets/Scenes/Boss-4.unity
+    guid: d267f32b81d20bd4496a5ccd83de8071
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: d18d72ff26edb404da9db6c331dcfbe0
+  m_configObjects: {}
