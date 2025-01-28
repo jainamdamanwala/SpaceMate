@@ -1,7 +1,8 @@
 # Space-Mate - Functionalities Overview
 
 ---
-##Watch the Gameplay video on Youtube  <a href = "https://youtu.be/BYlRjYLgxuo"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a> 
+## Watch the Gameplay video on Youtube  
+<a href = "https://youtu.be/BYlRjYLgxuo"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a> 
 [![Gameplay Video](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222029.png)](https://youtu.be/BYlRjYLgxuo)
 
 ![Gameplay Screenshot](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222148.png)
