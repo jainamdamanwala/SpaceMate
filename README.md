@@ -1,6 +1,20 @@
 # Space-Mate - Functionalities Overview
 
 ---
+##Watch the Gameplay video on Youtube  <a href = "https://youtu.be/BYlRjYLgxuo"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a> 
+[![Gameplay Video](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222029.png)](https://youtu.be/BYlRjYLgxuo)
+
+![Gameplay Screenshot](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222148.png)
+
+<div>
+    <img src="https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222239.png" width = 49%/>
+    <img src="https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222253.png" width =49%/>
+    <img src="https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222559.png" width = 49%/>
+    <img src="https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222652.png" width =49%/>
+    <img src="https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222705.png" width = 49%/>
+    <img src="https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222813.png" width =49%/>
+</div>
+
 
 ## PLAYERMOVEMENT
 - Handles player movement, including running, jumping, and crouching.
@@ -91,6 +105,7 @@
 ## BossShoot
 - Handles the shooting mechanics of the boss.
 - Continuously fires bullets at a fixed rate from a specified fire point.
+![Boss](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222925.png)
 
 ## EnemyBullet
 - Manages the behavior of bullets fired by regular enemies.
@@ -134,7 +149,7 @@
 - Includes functionality to load player data, save progress, and navigate between the main menu and store.
 - Supports starting a new game, exiting the application, and accessing the store menu.
 
-![Main Menu Screenshot](Screenshots/Screenshot 2025-01-27 222029.png)
+![Main Menu Screenshot](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222029.png))
 
 
 ## HealthKit
@@ -145,9 +160,11 @@
 - Manages in-app purchases for the game.
 - Supports buying consumable items like diamonds in various quantities and a non-consumable item to remove ads.
 - Includes functionality to initialize purchasing, process purchases, and restore past purchases on supported platforms.
+![IAP Manager Screenshot](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222112.png))
 
 ## LevelComplete
 - Triggers the display of the "Level Complete" UI when the player reaches a specific area.
+![Level Complete](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222813.png)
 
 ## LevelComplete2
 - Handles saving player progress and triggers the level completion process.
@@ -177,5 +194,6 @@
   - Save player progress.
   - Navigate to the main menu or exit the game.
   - Tracks and updates the player's current level.
+![Pause Menu](https://github.com/jainamdamanwala/SpaceMate/blob/main/Screenshots/Screenshot%202025-01-27%20222204.png)
 
 ---
