@@ -1,10 +1,9 @@
 ---
 
-# 🚀 **Space-Mate** 🪐
+# 🚀 Space-Mate 🪐
+Welcome to Space-Mate! A thrilling 2D adventure that takes you beyond the stars into a cosmic battleground filled with danger, mystery, and excitement.
 
-**Welcome to Space-Mate!** A thrilling 2D adventure that takes you beyond the stars into a cosmic battleground filled with danger, mystery, and excitement. 
-
-Embark on an interstellar journey as a brave space adventurer navigating hostile planets, dodging enemy fire, collecting precious resources, and overcoming colossal bosses. Armed with powerful upgrades and a trusty weapon, every level tests your strategy, reflexes, and will to survive. 
+Embark on an interstellar journey as a brave space adventurer navigating hostile planets, dodging enemy fire, collecting precious resources, and overcoming colossal bosses. Armed with powerful upgrades and a trusty weapon, every level tests your strategy, reflexes, and will to survive.
 
 Are you ready to conquer the galaxy and save your fellow crewmates? 🌌
 
