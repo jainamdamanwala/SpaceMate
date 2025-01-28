@@ -134,6 +134,8 @@
 - Includes functionality to load player data, save progress, and navigate between the main menu and store.
 - Supports starting a new game, exiting the application, and accessing the store menu.
 
+![Main Menu Screenshot](Screenshots/Screenshot 2025-01-27 222029.png)
+
 
 ## HealthKit
 - Provides a health kit that restores the player's health when collected.
